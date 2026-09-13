@@ -1,0 +1,8 @@
+,billing_subscription,content_availability,downloads_offline,feature_request,login_account_access,playback_bug,resolved_positive
+billing_subscription,30,0,0,2,0,1,0
+content_availability,0,17,0,3,0,2,0
+downloads_offline,1,1,7,2,1,1,0
+feature_request,2,4,0,32,4,1,0
+login_account_access,3,0,0,5,15,0,1
+playback_bug,0,3,0,5,3,35,4
+resolved_positive,0,0,0,0,1,0,14

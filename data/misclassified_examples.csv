@@ -1,0 +1,53 @@
+﻿customer_text,true_intent,predicted_intent,predicted_confidence
+@SpotifyCares reply to my dm,login_account_access,feature_request,0.45
+@SpotifyCares   Is there a phone number I can call someone at,feature_request,login_account_access,0.3
+I love when @115888 updates and deletes all your saved music....,downloads_offline,login_account_access,0.9
+@SpotifyCares can y’all get back to me pls,login_account_access,feature_request,0.3
+@SpotifyCares @706902 Please reply to my concern.,login_account_access,billing_subscription,0.7
+@SpotifyCares I’m greeted with this: https://t.co/DASDysviIh,playback_bug,login_account_access,0.7
+Why does spotify just randomly decide to delete half your music🙃,downloads_offline,content_availability,0.9
+@SpotifyCares Nope it happens quite often!,billing_subscription,playback_bug,0.95
+@SpotifyCares Thanks just sent.,login_account_access,resolved_positive,0.9
+Hey @115888 where is my top 100 songs of 2017 playlist???,feature_request,content_availability,0.8
+@SpotifyCares U guys fixed it once but its back,content_availability,playback_bug,0.8
+"@SpotifyCares Yup, my home WiFi",playback_bug,resolved_positive,0.6
+@SpotifyCares i'll try in a few days if i can for that.,resolved_positive,login_account_access,0.6
+@115888 when is the Top Songs of 2017 playlist coming?,feature_request,content_availability,0.8
+@115888 ¿¿,playback_bug,feature_request,0.2
+H E L P @SpotifyCares,playback_bug,login_account_access,0.3
+"Hey @115888 why is there a limit to how large my library can be, even if I'm a premium user?",downloads_offline,feature_request,0.9
+Why the hell am I paying for @115888  if there's a track limit on downloads?,downloads_offline,billing_subscription,0.95
+@SpotifyCares we have premium family and cannot listen at the same time,billing_subscription,feature_request,0.9
+@SpotifyCares might be an apple issue but this “fixed” the problem for now: https://t.co/yln9ofRKxh,playback_bug,resolved_positive,0.95
+"@SpotifyCares salve, come posso contattarvi per ricevere assistenza ?",feature_request,login_account_access,0.2
+@115888 I can't even begin to understand how such a company has such poor customer service,login_account_access,feature_request,0.2
+@SpotifyCares I definitely need to contact you. A number or email would be nice.,feature_request,login_account_access,0.3
+"I really wish @115888 increased the maximum amount of songs you can download. 3,333 is not enough",downloads_offline,feature_request,0.95
+"@SpotifyCares Spotify - 1.0.65.320.gac7a8e02
+Mac OS - Sierra v 10.12.6 https://t.co/mv1kGG1dBq",playback_bug,content_availability,0.78
+@SpotifyCares please can you switch my USA account to be a UK account? username: ejweston *thank you!,login_account_access,feature_request,0.95
+"Hi @115888, 
+I was just wondering why your service has turned into absolute dogshit in the last month?",playback_bug,feature_request,0.3
+@SpotifyCares I’m on macOS Sierra (10.12.6) and iPhone 7 OS 11.0.2 (just updated the Spotify app on computer yesterday as well),downloads_offline,playback_bug,0.6
+"Oh dear god, @115888 I love you, but the horrendous advert for Christmas playlists featuring god awful Mariah is RUINING my day.",playback_bug,feature_request,0.4
+Based on the fact I listened to a Doro album sung in German Spotify thinks I'm now into all things Germanic ...,billing_subscription,feature_request,0.9
+@SpotifyCares I’ve had the worst customer service I’ve ever had. Can I please get some help. I’ve been waiting all day.,login_account_access,feature_request,0.62
+@SpotifyCares  hi I can't add payment to my account my card and phone bill is not working just has a error message can u pls help,login_account_access,billing_subscription,0.95
+@SpotifyCares I have Spotify premium &amp; when I log in on my safari it says i do but on my app it says I’m ‘free’??,feature_request,login_account_access,0.95
+@115888 @SpotifyCares could y'all somehow ya know get someone on that? If anything Rebone is an essential Native American band,content_availability,feature_request,0.95
+"@SpotifyCares It's been happening with various songs, from various bands. Weirdly I just tested a bunch now and they are playing",playback_bug,resolved_positive,0.9
+@SpotifyCares Is Spotify down? Can't access anything I haven't downloaded. Can't search. Nothing. Lots of others reporting the same... ?,playback_bug,content_availability,0.8
+@SpotifyCares Hi. I'm using the Spotify for Artists app and I'm not longer getting 'live' streaming numbers on my songs. Why is that? 🙂,content_availability,playback_bug,0.8
+It’s been 10 days since the iPhone X released and @115888 still hasn’t updated its app to support the screen size. C’mon man.,playback_bug,feature_request,0.9
+"@SpotifyCares I’m running iOS 11 on my iPhone, the app didn’t respond couple times but now it’s working fine I don’t know what happed, thanks anyways ✌🏻",playback_bug,resolved_positive,0.95
+"@SpotifyCares Hi, thanks. This is happening across multiple devices and operating systems including a PC, a Mac running on Sierra, and an iPhone 6. Each has the most updated Version of Spotify available installed.",playback_bug,content_availability,0.95
+Eh excuse me @115888 when I type Cher I expect the one and only @251622  to appear first. Not Cheryl.  Consider this a telling off. https://t.co/8aRoS7uGVw,feature_request,playback_bug,0.92
+"@SpotifyCares Hi, different browser worked, thanks :-) ! Next hurdle - sorry - sent an invitation to him and he got a mail with a code and an accept button / pagelink. After browsig to the link, he needs to logon, but with which account ? Mine ? He does not have one of his own.",login_account_access,billing_subscription,0.96
+"@115888 @30165 Hey @115888 can you add @214907 's new single ""Tell Me You Love Me"" to  Today's Top Hits Playlist please since sorry not sorry isnt there anymore!!",content_availability,feature_request,0.96
+"Hey @SpotifyCares im an artist on spotify but one of my recent tracks was put on a seperate profile on its own, could you help me move it?",content_availability,feature_request,0.78
+@SpotifyCares I am waiting for a rep to email me to let me know what the incorrect address is I entered while trying to add my 12-yr old daughter to my family account. It is unacceptable that I can't see this information. Thanks.,feature_request,billing_subscription,0.93
+"@SpotifyCares I keep accidentally removing music because I hit the check mark on mistake and with 350 songs I'll never know what one I removed. Could you make a second prompt to ask ""are you sure you want to remove ___ song"" it would help. A lot.",playback_bug,feature_request,0.97
+@SpotifyCares The Blue Lips (lady wood phase II) has a totally inappropriate album cover to be advertised on the top bar of the desktop software. FYI.,feature_request,content_availability,0.9
+"@SpotifyCares Tried that. Flashed normal for a second then back to being broken. Made a new account name, works fine. What in the world would cause that?",playback_bug,login_account_access,0.78
+@SpotifyCares I know. I've been a premium subscriber for so many years and have never gotten any deal. It's the way cookie crumbles but don't I just think it's wrong.,feature_request,billing_subscription,0.92
+"I truly think that your playlist ""Rock This"" is missing Kiwi by Harry Styles. would fit so well there. fix this, please))) would be awesome! @115888 @SpotifyCares",feature_request,content_availability,0.93

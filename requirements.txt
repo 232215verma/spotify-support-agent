@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+groq
+python-dotenv
+jupyter
+tqdm
+kaggle

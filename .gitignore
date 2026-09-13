@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Raw dataset - too large for GitHub (500MB+), not needed for Quick Reproduce
+data/twcs/
+data/*.zip
+
+# Retrieval embeddings index - large binary, rebuildable via build_retrieval_index.py
+data/retrieval_index.pkl
+
+# Keep everything else in data/ (golden eval set, results CSVs) - these are small and needed for reproduction
